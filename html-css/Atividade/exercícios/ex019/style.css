@@ -15,3 +15,15 @@ h1 {
 h2 {
     color: rgb(82, 163, 82);
 }
+.basico {
+    color: rgb(4, 216, 4);
+}
+.intermediário {
+    color: rgb(170, 170, 32);
+}
+.avançado {
+    color: rgb(218, 70, 70);
+}
+.destaque {
+    background-color: aquamarine;
+}
