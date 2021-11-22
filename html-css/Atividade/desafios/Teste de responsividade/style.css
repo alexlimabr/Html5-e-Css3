@@ -1,0 +1,24 @@
+* {
+  margin: 0%;
+}
+body{
+  margin-top: 0;
+  margin: 1.25rem;
+}
+body h1 {
+  margin: auto;
+  padding-bottom: 1rem;
+}
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body p {
+  min-width: 300px;
+  max-width: 1750px;
+  text-align: justify;
+}
+body img {
+  display: block;
+  margin: auto;
+  padding: 20px 0px 20px 0px;
+}
